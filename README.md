@@ -1,5 +1,5 @@
 # image.resizer
-This Python Script resize the image on specfic input which it will get in Python module Pillow Where you it is a small script of function defined 
+### This Python Script resize the image on specfic input which it will get in Python module Pillow Where you it is a small script of function defined 
 ### This is important for you to read this before taking any step
 
 ### Step 1:- Go to website https://www.python.org/ and downlaod python if python is not installed in your pc 
