@@ -6,5 +6,5 @@
 ### Step 2:- After downloading the python install it.
 ### Step 3:- Download this github respository image.resizer
 ### Step 4:- After that open command prompt/Terminal type ( pip intall Pillow)
-### Step 5:- open main.py in your any ide whether it is pycharm, spyder, jupyter, or python IDLE
+### Step 5:- open imgResize.py in your any ide whether it is pycharm, spyder, jupyter, or python IDLE
 
